@@ -1,1 +1,1 @@
-这个文件夹主要是用来实现tdnn的
+actuall cnn.py is tdnn instead of tdnn.py
