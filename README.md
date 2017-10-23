@@ -1,1 +1,1 @@
-actuall cnn.py is tdnn instead of tdnn.py
+actually cnn.py is tdnn instead of tdnn.py
